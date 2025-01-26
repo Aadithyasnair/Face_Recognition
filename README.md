@@ -1,6 +1,3 @@
-Certainly! You can add a credits section to the `README.md` file to acknowledge the sources of any third-party resources or tools you have used in your project. Here is an updated version of the `README.md` file with a credits section added:
-
-```markdown
 # Face Detection and Recognition with Flask
 
 This project is a Flask application that uses OpenCV, dlib, and face_recognition libraries to perform face detection and recognition. The application captures video from the user's camera, processes frames on the server, and displays the processed frames with face detection and recognition results.
