@@ -65,10 +65,6 @@ This project is a Flask application that uses OpenCV, dlib, and face_recognition
 
    The application will display the live video feed from your camera. It will perform face detection and recognition on the server and display the processed frames.
 
-5. **Stop processing on match:**
-
-   The application will stop processing frames once it finds a match with the known face.
-
 ## Project Structure
 
 - `app.py`: The main Flask application code.
