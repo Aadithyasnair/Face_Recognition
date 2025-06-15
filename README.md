@@ -18,7 +18,7 @@ This project is a Flask application that uses OpenCV, dlib, and face_recognition
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/face-detection-flask.git
+   git clone https://github.com/Aadithyasnair/Face_Recognition.git
    cd face-detection-flask
    ```
 
